@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Dmytro Popovych
+# 👋 Hi! I'm Dmitrii Popovych
 
 <div align="center">
   

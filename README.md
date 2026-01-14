@@ -10,7 +10,7 @@
 
 ## 🚀 About Me
 
-Midlle **Full Stack Developer** with over **2+ years** of commercial development experience. Passionate about building modern web applications and quickly adapting to new technologies.
+**Full Stack Developer** with over **3 years** of commercial development experience. Passionate about building modern web applications and quickly adapting to new technologies.
 
 ```javascript
 const dmytro = {

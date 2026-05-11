@@ -1,4 +1,4 @@
-# 👋 Hi! I'm Dmytrii Popovych
+# 👋 Hi! I'm Dmytro Popovych
 
 <div align="center">
 
@@ -14,25 +14,29 @@
 
 ```javascript
 const dmytro = {
-    code: ["TypeScript", "JavaScript", "Python"],
-    askMeAbout: ["SaaS", "KYC/AML", "microservices", "payment systems", "ML in production"],
+    code: ["TypeScript", "JavaScript", "Python", "C#"],
+    askMeAbout: ["SaaS", "microservices", "payment systems", "real-time systems", "ML in production"],
     technologies: {
         frontEnd: {
-            js: ["Next.js", "React", "React Native / Expo", "Vue.js"],
+            js: ["Next.js", "React", "React Native / Expo", "Vue.js", "Vite"],
             css: ["Tailwind", "Radix UI", "MUI"]
         },
         backEnd: {
             js: ["NestJS", "Node.js", "Express.js"],
-            python: ["FastAPI"]
+            python: ["FastAPI"],
+            dotnet: ["C# / .NET"]
         },
+        api: ["REST", "GraphQL", "Apollo", "WebSocket"],
         databases: ["PostgreSQL", "MongoDB", "Redis"],
         orms: ["Prisma", "TypeORM", "MikroORM"],
-        messaging: ["Kafka", "BullMQ", "RabbitMQ", "WebSocket"],
+        messaging: ["Kafka", "BullMQ", "RabbitMQ"],
         cloud: ["AWS (EC2, S3, KMS, STS)", "Hetzner", "DigitalOcean", "Railway"],
         devOps: ["Docker", "Nginx", "Linux", "GitHub Actions", "Turborepo"],
         security: ["AWS KMS", "HashiCorp Vault", "JWT", "OAuth2", "mTLS"],
         ai_ml: ["ONNX Runtime", "YOLO", "MobileNet", "PyTorch", "OpenCV"],
-        payments: ["Stripe", "WayForPay"],
+        payments: ["Stripe", "WayForPay", "LiqPay"],
+        cms: ["PayloadCMS", "Strapi"],
+        integrations: ["KeyCRM", "1C ERP", "Firebase", "Telegram Bot API", "Google API"],
         architecture: ["Microservices", "Enterprise Solutions"]
     }
 };
@@ -61,6 +65,7 @@ const dmytro = {
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Radix UI](https://img.shields.io/badge/Radix_UI-161618?style=for-the-badge&logo=radixui&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
@@ -71,6 +76,13 @@ const dmytro = {
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+
+### API
+![REST](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge&logo=rest&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![Apollo](https://img.shields.io/badge/Apollo_GraphQL-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
 
 ### Databases & ORM
@@ -79,6 +91,7 @@ const dmytro = {
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)
 ![TypeORM](https://img.shields.io/badge/TypeORM-FE0902?style=for-the-badge&logo=typeorm&logoColor=white)
+![MikroORM](https://img.shields.io/badge/MikroORM-153e75?style=for-the-badge&logo=data&logoColor=white)
 
 ### Messaging & Architecture
 ![Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
@@ -108,10 +121,17 @@ const dmytro = {
 ![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=for-the-badge&logo=vault&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 
-### Integrations
+### Integrations & CMS
 ![Stripe](https://img.shields.io/badge/Stripe-626CD9?style=for-the-badge&logo=stripe&logoColor=white)
+![WayForPay](https://img.shields.io/badge/WayForPay-00A859?style=for-the-badge&logo=wayforpay&logoColor=white)
+![LiqPay](https://img.shields.io/badge/LiqPay-00B5E2?style=for-the-badge&logo=liqpay&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Telegram](https://img.shields.io/badge/Telegram_Bot_API-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![Google API](https://img.shields.io/badge/Google_API-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PayloadCMS](https://img.shields.io/badge/PayloadCMS-000000?style=for-the-badge&logo=payloadcms&logoColor=white)
+![Strapi](https://img.shields.io/badge/Strapi-2F2E8B?style=for-the-badge&logo=strapi&logoColor=white)
+![KeyCRM](https://img.shields.io/badge/KeyCRM-FF6B35?style=for-the-badge&logo=keycdn&logoColor=white)
+![1C](https://img.shields.io/badge/1C_ERP-FFCC00?style=for-the-badge&logo=1c&logoColor=black)
 
 </div>
 

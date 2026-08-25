@@ -39,14 +39,14 @@ const dmytro = {
             dotnet: ["C# / .NET"]
         },
         api: ["REST", "GraphQL", "Apollo", "GraphQL Codegen", "WebSocket", "Webhooks (signed, at-least-once)"],
-        databases: ["PostgreSQL (incl. Neon)", "MongoDB", "Redis", "SQLite"],
+        databases: ["PostgreSQL", "MongoDB", "Redis", "SQLite"],
         orms: ["Prisma", "TypeORM", "MikroORM"],
         messaging: ["Kafka", "BullMQ", "RabbitMQ"],
         cloud: ["AWS (EC2, S3, KMS, STS)", "Hetzner", "DigitalOcean", "Railway", "RunPod"],
         devOps: ["Docker", "Nginx", "Linux", "GitHub Actions", "Turborepo", "Yarn/PNPM workspaces", "Vitest"],
         security: [
             "AWS KMS", "HashiCorp Vault", "Envelope encryption", "Blind index",
-            "JWT", "OAuth2", "2FA / TOTP", "mTLS", "CSP", "GDPR & ISO 27001 (ISMS)"
+            "JWT", "OAuth2", "2FA / TOTP", "mTLS", "CSP", "GDPR & ISO 27001"
         ],
         ai_ml: ["ONNX Runtime", "YOLO", "MobileNet", "PyTorch", "OpenCV", "WASM inference in browser"],
         payments: ["Stripe", "WayForPay", "LiqPay"],
@@ -109,7 +109,6 @@ const dmytro = {
 
 ### Databases & ORM
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Neon](https://img.shields.io/badge/Neon-00E599?style=for-the-badge&logo=neon&logoColor=black)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)

@@ -1,0 +1,18 @@
+{
+  "name": "profile-video",
+  "private": true,
+  "scripts": {
+    "studio": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts Profile out/profile.mp4 --codec=h264 --crf=20",
+    "poster": "remotion still src/index.ts Profile out/poster.png --frame=1000"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.533",
+    "@remotion/google-fonts": "^4.0.533",
+    "@types/react": "^19.3.0",
+    "react": "^19.3.0",
+    "react-dom": "^19.3.0",
+    "remotion": "^4.0.533",
+    "typescript": "^7.0.2"
+  }
+}

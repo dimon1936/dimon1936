@@ -127,11 +127,11 @@ const Intro = () => {
         <div style={{ fontFamily: sans, fontSize: 84, fontWeight: 700, color: C.text, letterSpacing: -2, marginTop: 14 }}>Dmytrii Popovych</div>
       </Rise>
       <Rise at={40}>
-        <div style={{ fontFamily: sans, fontSize: 30, color: C.text, marginTop: 14 }}>Product engineer. Mostly backend, also web and mobile.</div>
+        <div style={{ fontFamily: sans, fontSize: 30, color: C.text, marginTop: 14 }}>Product engineer. Backend, web and mobile.</div>
       </Rise>
       <Rise at={56}>
         <div style={{ fontFamily: sans, fontSize: 24, color: C.muted, marginTop: 12 }}>
-          3 years of commercial experience: APIs, web and mobile apps.
+          Strong frontend: Figma to code 1:1, or clean UI from scratch.
         </div>
       </Rise>
       <div
@@ -455,8 +455,8 @@ const Web = () => {
       <Caption
         index="03 / 04"
         title="Web"
-        sub="Several apps in one monorepo"
-        points={["Next.js, React, Vite", "Turborepo, Nx, Yarn / pnpm", "GraphQL codegen, shared types"]}
+        sub="Web apps, widgets, monorepos"
+        points={["Next.js, React, Vite", "Figma to code 1:1, design systems", "Turborepo, Nx, shared types"]}
       />
       <div style={{ position: "absolute", left: 650, top: 140, width: 520, padding: "28px 32px", borderRadius: 14, background: "#010409", border: `1px solid ${C.line}`, boxSizing: "border-box" }}>
         {tree.map(([l, tag], i) => {

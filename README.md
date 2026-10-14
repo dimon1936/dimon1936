@@ -1,6 +1,6 @@
 ### Dmytrii Popovych
 
-**Product engineer · full-stack, backend-leaning · since 2023 · Lviv, Ukraine · remote**
+**Product engineer · full-stack, mostly backend · since 2023 · Lviv, Ukraine · remote**
 
 Mostly backend, also web and mobile. I take B2B and B2C products from idea to production and keep them running after launch. Clients in Ukraine and the EU.
 

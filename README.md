@@ -4,9 +4,9 @@
 
 Mostly backend, also web and mobile. I take B2B and B2C products from idea to production and keep them running after launch. Clients in Ukraine and the EU.
 
-<img src="assets/profile.gif" alt="Short overview: who I am, domains, backend" width="100%">
+<img src="assets/overview.gif" alt="Overview: backend, mobile, web, shipping" width="100%">
 
-<sub>[Full version in HD (mp4, 50 s)](assets/profile.mp4)</sub>
+<sub>[Watch in HD (mp4)](assets/profile.mp4)</sub>
 
 **Domains:** KYC / identity, health-tech, construction and workforce, payments and billing.
 

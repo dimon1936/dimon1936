@@ -1,14 +1,14 @@
 ### Dmytrii Popovych
 
-**Full-stack engineer · 3 years of commercial experience · Lviv, Ukraine · remote**
+**Product engineer · full-stack, backend-leaning · since 2023 · Lviv, Ukraine · remote**
 
-Backend, web and mobile. Strong on frontend: pixel-accurate builds from Figma, and clean, usable UI when there is no design yet. Clients in Ukraine and the EU. Before 2023: C# / .NET trainee, Lua.
+Mostly backend, also web and mobile. I take B2B and B2C products from idea to production and keep them running after launch. Clients in Ukraine and the EU.
 
-<img src="assets/profile.gif" alt="Short overview: backend, mobile, web, shipping" width="100%">
+<img src="assets/profile.gif" alt="Short overview: who I am, domains, backend" width="100%">
 
-<sub>[Watch in HD (mp4)](assets/profile.mp4)</sub>
+<sub>[Full version in HD (mp4, 50 s)](assets/profile.mp4)</sub>
 
-**Project types:** B2B SaaS, B2C products, KYC / AML, payments and billing, Health-tech, enterprise and manufacturing, construction and workforce, retail and loyalty, CRM / ERP integrations, computer vision, ML and LLM integrations.
+**Domains:** KYC / identity, health-tech, construction and workforce, payments and billing.
 
 **Experience**
 

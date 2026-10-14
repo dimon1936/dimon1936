@@ -127,7 +127,7 @@ const Intro = () => {
         <div style={{ fontFamily: sans, fontSize: 84, fontWeight: 700, color: C.text, letterSpacing: -2, marginTop: 14 }}>Dmytrii Popovych</div>
       </Rise>
       <Rise at={40}>
-        <div style={{ fontFamily: sans, fontSize: 30, color: C.text, marginTop: 14 }}>Full-stack engineer. Mostly backend, also web and mobile.</div>
+        <div style={{ fontFamily: sans, fontSize: 30, color: C.text, marginTop: 14 }}>Product engineer. Mostly backend, also web and mobile.</div>
       </Rise>
       <Rise at={56}>
         <div style={{ fontFamily: sans, fontSize: 24, color: C.muted, marginTop: 12 }}>
@@ -152,30 +152,19 @@ const Intro = () => {
 const Domains = () => {
   const f = useCurrentFrame();
   const { fps } = useVideoConfig();
-  const chips = [
-    "B2B SaaS",
-    "B2C products",
-    "KYC / AML",
-    "Payments & billing",
-    "Health-tech",
-    "Enterprise & manufacturing",
-    "Construction & workforce",
-    "Retail & loyalty",
-    "CRM / ERP integrations",
-    "Computer vision, ML & LLMs",
-  ];
+  const chips = ["KYC / identity", "Health-tech", "Construction & workforce", "Payments & billing", "B2B SaaS & B2C apps"];
   const stats = [
     ["UA + EU", "clients"],
     ["2023", "commercial since"],
-    ["≤ 2022", "C# / .NET trainee, Lua"],
+    ["idea → prod", "and after launch"],
   ];
   return (
     <AbsoluteFill style={{ paddingLeft: 120, paddingTop: 110 }}>
       <Rise at={4}>
-        <div style={{ fontFamily: mono, fontSize: 18, color: C.muted }}>project types</div>
+        <div style={{ fontFamily: mono, fontSize: 18, color: C.muted }}>domains</div>
       </Rise>
       <Rise at={8}>
-        <div style={{ fontFamily: sans, fontSize: 52, fontWeight: 700, color: C.text, marginTop: 10, letterSpacing: -1 }}>Where I have worked</div>
+        <div style={{ fontFamily: sans, fontSize: 52, fontWeight: 700, color: C.text, marginTop: 10, letterSpacing: -1 }}>What I build for</div>
       </Rise>
       <div style={{ display: "flex", flexWrap: "wrap", gap: 14, width: 1040, marginTop: 34 }}>
         {chips.map((c, i) => {
@@ -188,7 +177,7 @@ const Domains = () => {
                 fontSize: 23,
                 fontWeight: 500,
                 color: C.text,
-                border: `1px solid ${i === 2 ? C.accent : C.line}`,
+                border: `1px solid ${i === 0 ? C.accent : C.line}`,
                 background: C.panel,
                 borderRadius: 999,
                 padding: "12px 22px",
